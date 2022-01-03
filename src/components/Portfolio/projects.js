@@ -1,4 +1,23 @@
-import teltsov from '../img/projects/teltsovby.webp'
+import teltsov from '../img/projects/teltsov_by.webp'
+import akolica from '../img/projects/akolica_by.webp'
+import aldarinvest from '../img/projects/aldarinvest_com.webp'
+import aromaterra from '../img/projects/aromaterra_by.webp'
+import bytsennosti from '../img/projects/bytsennosti_by.webp'
+import casexstoma from '../img/projects/casexstoma_ru.webp'
+import clearhands from '../img/projects/clearhands_by.webp'
+import cond from '../img/projects/cond_by.webp'
+import condvent from '../img/projects/condvent_by.webp'
+import healthmedical from '../img/projects/healthmedical_ru.webp'
+import imred from '../img/projects/imred_by.webp'
+import kafekuhnya from '../img/projects/kafekuhnya_by.webp'
+import latrade from '../img/projects/latrade_by.webp'
+import magister from '../img/projects/magister_by.webp'
+import medmagister from '../img/projects/medmagister_by.webp'
+import pavetravod from '../img/projects/pavetravod_by.webp'
+import pegasgonda from '../img/projects/pegas-gonda_by.webp'
+import projectshop from '../img/projects/projectshop_by.webp'
+import stankopark from '../img/projects/stankopark_by.webp'
+import trudohrana from '../img/projects/trudohrana_org.webp'
 
 export const itemData = [
     {
@@ -6,47 +25,79 @@ export const itemData = [
       title: "Teltsov.by",
     },
     {
-      img: "https://images.unsplash.com/photo-1525097487452-6278ff080c31",
-      title: "Books",
+      img: akolica,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
-      title: "Sink",
+      img: aldarinvest,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
-      title: "Kitchen",
+      img: aromaterra,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3",
-      title: "Blinds",
+      img: bytsennosti,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1574180045827-681f8a1a9622",
-      title: "Chairs",
+      img: casexstoma,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1530731141654-5993c3016c77",
-      title: "Laptop",
+      img: clearhands,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1481277542470-605612bd2d61",
-      title: "Doors",
+      img: cond,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
-      title: "Coffee",
+      img: condvent,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1516455207990-7a41ce80f7ee",
-      title: "Storage",
+      img: healthmedical,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62",
-      title: "Candle",
+      img: imred,
+      title: "",
     },
     {
-      img: "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
-      title: "Coffee table",
+      img: kafekuhnya,
+      title: "",
+    },
+    {
+      img: latrade,
+      title: "",
+    },
+    {
+      img: magister,
+      title: "",
+    },
+    {
+      img: medmagister,
+      title: "",
+    },
+    {
+      img: pavetravod,
+      title: "",
+    },
+    {
+      img: pegasgonda,
+      title: "",
+    },
+    {
+      img: projectshop,
+      title: "",
+    },
+    {
+      img: stankopark,
+      title: "",
+    },
+    {
+      img: trudohrana,
+      title: "",
     },
   ];
