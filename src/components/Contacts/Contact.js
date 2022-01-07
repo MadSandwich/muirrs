@@ -3,10 +3,9 @@ import { Box, Container, Typography } from "@mui/material";
 import hero_seo from "../img/hero_seo.svg";
 import { Helmet } from "react-helmet";
 
-export default function Main() {
+export default function Contact() {
   return (
     <Box
-      component="main"
       sx={{
         alignItems: "center",
         display: "flex",
@@ -15,8 +14,8 @@ export default function Main() {
       }}
     >
       <Helmet>
-        <title>RRStudio main page</title>
-        <meta name="description" content="Description for main page" />
+        <title>RRStudio contact page</title>
+        <meta name="description" content="Description for contact page" />
       </Helmet>
       <Container maxWidth="md">
         <Box
@@ -30,7 +29,7 @@ export default function Main() {
             Rise Rise Studio
           </Typography>
           <Typography align="center" color="textPrimary" variant="h4">
-            Полноценный комплекс услуг по продвижению вашего ресурса!
+            Contact
           </Typography>
           <Box sx={{ textAlign: "center" }}>
             <img

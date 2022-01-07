@@ -67,6 +67,22 @@ export default function Sidebar() {
             };
           }}
           className="nav_link"
+          to={`/contact`}
+        >
+          Контакты
+        </NavLink>
+        <NavLink
+          style={({ isActive }) => {
+            return {
+              backgroundColor: isActive ? "#eeeff8" : "",
+              color: isActive ? "#5383ff" : "black",
+              borderRadius: "0 22px 22px 0",
+              paddingLeft: "25px",
+              textDecoration: "none",
+              padding: "5px 20px",
+            };
+          }}
+          className="nav_link"
           to={`/404`}
         >
           Not Found
